@@ -1,7 +1,7 @@
 {
   "default_prefix": "d!",
-  "owners": ["795044364774670366],
-  "timeout": 300000,
+  "owners": ["795044364774670366"],
+  "timeout": 300000, 
   "invite_link": "https://discord.com/api/oauth2/authorize?client_id=882311254423765012&permissions=8&scope=bot",
   "error_logs": "1012976881030668308",
   "success_logs": "1012976881030668308",
